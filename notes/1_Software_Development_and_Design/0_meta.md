@@ -1,0 +1,10 @@
+# Software Development and Design (15%)
+
+1. [Compare Data Formats](01_Compare_Data_Formats.md)
+2. [Describe Parsing of Common Data Formats](02_Describe_Parsing_of_Common_Data_Formats.md)
+3. [Describe the Concpets of Test-driven Development](03_Describe_the_Concepts_of_Test-driven_Development.md)
+4. [Compare Software Development Methods](04_Compare_Software_Development_Methods.md)
+5. [Explain the Benefits of Organizing Code Into Methods, Classes, and Modules](05_Explain_the_Benefits_of_Organizing_Code_Into_Methods_Classes_and_Modules.md)
+6. [Identify the Advantages of Common Design Patterns](06_Identify_the_Advantages_of_Common_Design_Patterns.md)
+7. [Explain the Advantages of Version Control](07_Explain_the_Advantages_of_Version_Control.md)
+8. [Utilize Common Version Control Options with Git](08_Utilize_Common_Version_Control_Options_with_Git.md)

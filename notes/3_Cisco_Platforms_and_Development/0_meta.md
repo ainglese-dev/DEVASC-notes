@@ -1,0 +1,11 @@
+# Cisco Platforms and Development (15%)
+
+1. [](01_Construct_a_Python_Script_That_Uses_a_Cisco_SDK_Given_SDK_documentation.md)
+2. [](02_Describe_the_capabilities_of_Cisco_Network_Management_Platforms_and_APIs.md)
+3. [](03_Describe_the_Capabilities_of_Cisco_Compute_management_Platforms_and_APIs.md)
+4. [](04_Describe_the_Capabilities_of_Cisco_Collaboration_Platforms_and_APIs.md)
+5. [](05_Describe_the_Capabilities_of_Cisco_Security_Platforms_and_APIs.md)
+6. [](06_Describe_the_Device-level_APIs_and_Dynamic_Interfaces_for_IOS-XE_and_NX-OS.md)
+7. [](07_Identify_the_Appropriate_DevNet_Resource_for_a_Given_Scenario.md)
+8. [](08_Apply_Concepts_of_Model-driven_Programmability.md)
+9. [](09_Construct_Code_to_Perform_a_Specific_Operation_Based_on_a_Set_of_Requirements_and_Given_API_Reference_Documentation.md)

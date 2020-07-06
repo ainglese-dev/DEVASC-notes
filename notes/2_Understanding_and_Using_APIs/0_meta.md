@@ -1,0 +1,11 @@
+# Understanding and Using APIs (20%)
+
+1. [Construct a REST API Request to Accomplisgh a Task Given API Documentation](01_Construct_a_REST_API_Request_to_Accomplish_a_Task_Given_API_Documentation.md)
+2. [Describe Common Usage Patterns Related to Webhooks](02_Describe_Common_Usage_Patterns_Related_to_Webhooks.md)
+3. [Identify the Constraints When Consuming APIs](03_Identify_the_Constraints_When_Consuming_APIs.md)
+4. [Explain Commont HTTP Response Codes Associated with REST APIs](04_Explain_Common_HTTP_Response_Codes_Associated_With_Rest_APIs.md)
+5. [Troubleshoot a Problem Given the HTTP Response Codes Associated with REST APIs](05_Troubleshooot_A_Problem_Given_The_HTTP_Response_Codes_Associated_With_REST_APIs.md)
+6. [Identify the Parts of an HTTP Response](06_Identify_the_Parts_of_an_HTTP_Response.md)
+7. [Utilize Common API Authenticatino Mechanisms](07_Utilize_Common_API_Authentication_Mechanisms.md)
+8. [Compare Common API Styles](08_Compare_Common_API_Styles.md)
+9. [Construct a Python Script that Calls a REST API Using the Requests Library](09_Construct_a_Python_Script_That_Calls_a_REST_API_Using_The_Requests_Library.md)
