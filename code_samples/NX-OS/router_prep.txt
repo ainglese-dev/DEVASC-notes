@@ -1,0 +1,9 @@
+configure terminal
+ feature nxapi
+ feature netconf
+ feature restconf
+ feature bash
+end
+copy running-config startup-config
+run bash sudo su
+yum install /bootflash/mtx-openconfig-all-1.0.0.0-9.2.1.lib32_n9000.rpm
