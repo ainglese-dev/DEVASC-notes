@@ -2,11 +2,18 @@
 
 ## Secret Protection
 
+- Use environment variables or config files
+- Do not hard code credentials in code
+- Do not track files with credentials in source control
 
-## Transport Encryption
+## Securing Data in Transit
 
+- Use SSH over telnet
+- Use HTTPS over HTTP
 
-## Storage Encryption
+## Securing Data at Rest
 
+- Utilize disk encryption when possible
+- Encrypt DB possible
 
 ## Data Handling

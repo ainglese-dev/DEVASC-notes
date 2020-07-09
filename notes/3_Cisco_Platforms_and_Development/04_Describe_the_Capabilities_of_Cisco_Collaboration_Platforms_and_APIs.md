@@ -13,11 +13,18 @@
 ## CUCM
 
 ### AXL
--  SOAP API
--  Faster
+
+- SOAP API
+- Faster
+- More methods available
+
 ### UDS
+
 - REST API
 - Easier to use
+- Fewer methods available
+- User must be in at least `Standard CCM End Users` to access
+- Only XML supported
 
 ## Finesse
 
