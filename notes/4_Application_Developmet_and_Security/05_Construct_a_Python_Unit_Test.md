@@ -18,3 +18,5 @@ class TestRunner2049(unittest.TestCase):
 
 unittest.main()
 ```
+
+[See here](../../code_samples/python_and_rest/unit_test.py) for a concrete example.
