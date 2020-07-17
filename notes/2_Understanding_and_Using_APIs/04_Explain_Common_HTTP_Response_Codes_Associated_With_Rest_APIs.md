@@ -49,17 +49,31 @@ The request should be repeated with the specified URI; however subsequent calls 
 
 The server cannot or will not process the request due to malformed request, request too large, etc.
 
+Check the request syntax and/or querystring parameters.
+
 ### 401: Unauthorized
 
-The request requires authentication that has either not been provided or for which invalid credentials have been provided.
+The requested resource requires authentication that has either not been provided or for which invalid credentials have been provided.
+
+Verify a suitable Authorization header field is being supplied; if so, verify the credentials are correct.
 
 ### 403: Forbidden
 
 The request is valid, however the server is refusing to take action. Usually related to permissions issues either with the authenticated user or file permissions on the server.
 
+Credentials are correct; do not re-attempt until API user permissions have been adjusted on the server side.
+
 ### 404: Not Found
 
 The requested resource could not be found but may be available in the future. Subsequent requests by the client are permissible.
+
+Check the API documentation for any updates to the resources URI.
+
+### 415: Unsupported Media Type
+
+The `Content-Type` provided in the request does cannot be processed by the API.
+
+Check the API's documentation to verify you're not e.g. sending JSON to an API that only supports XML.
 
 ### 418: I'm a Teapot
 
@@ -68,6 +82,8 @@ LOL response code from a an April Fool's RFC.
 ### 429: Too Many Requests
 
 The user has sent too many requests in a set amount of time. Utilized with rate limiting features.
+
+Slow your roll. Either be more efficient with your API calls, run your job less-frequently, etc.
 
 ### 451: Unavailable for Legal Reasons
 
